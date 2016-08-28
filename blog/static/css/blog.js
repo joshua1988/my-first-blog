@@ -11,7 +11,7 @@ export default StyleSheet.create({
         "fontFamily": "'Lobster'"
     },
     "body": {
-        "paddingLeft": 15
+        "paddingLeft": 20
     },
     "page-header": {
         "backgroundColor": "#ff9400",
